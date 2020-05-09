@@ -1,0 +1,43 @@
+*{
+	margin: 0; 
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Poppins', sans-serif;
+
+  
+}
+
+.container{
+
+	margin: 150px 0 0 0;
+	
+	background: pink;
+
+
+}
+
+.extra-div{
+
+	background:	#DA70D6;
+	border: solid 5px #800080!important;
+	padding: 50px!important;
+	border-radius: 3px;
+	transition: 0.3s
+
+
+}
+
+.extra-div:hover{
+	box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+	 transform: translateY(-10px);
+	 background: 	#8A2BE2!important;
+	 color: 		#FF1493;
+}
+
+
+.heading{
+	margin: 100px 0 0 0;
+	font-size: 5rem;
+	background:#EE82EE;
+	color: #FFF0F5;
+}
